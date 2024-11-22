@@ -4,7 +4,7 @@ import os
 
 #Configura a chave de API da OpenAI
 client = OpenAI(
-    api_key = "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",
+    api_key = "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",
 )
 
 def continuarExec():
